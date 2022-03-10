@@ -1,5 +1,5 @@
 # SQL-ODEV-1
-Patika.dev > SQL > Ödev1
+Patika.dev > SQL > SQL Temelleri > Ödev1
 
 ## 1. film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 
